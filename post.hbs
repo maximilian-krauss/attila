@@ -81,6 +81,7 @@
 
 
 			<section class="post-comments">
+				<div clss="utterances" ></div>
 				<a id="show-disqus" class="post-comments-activate">{{t "Show Comments"}}</a>
 			   <div id="disqus_thread"></div>
 			</section>
@@ -192,5 +193,12 @@
 	    });
 	  }
   });
+</script>
+<script src="https://utteranc.es/client.js"
+        repo="maximilian-krauss/comments.max.krauss.io"
+        issue-term="pathname"
+        theme="preferred-color-scheme"
+        crossorigin="anonymous"
+        async>
 </script>
 {{/contentFor}}

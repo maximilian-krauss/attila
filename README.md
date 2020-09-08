@@ -33,7 +33,7 @@ If you like this theme, you can buy me a ~~coffee~~ [beer](https://paypal.me/zut
 * __Spanish__
 * __French__ by [robink](https://github.com/robink)
 * __Italian__ by [fmaida](https://github.com/fmaida)
-* __Norwegian__ by [arthurnoerve](https://github.com/arthurnoerve)
+* __Norwegian__ by [arthurnoerve](https://github.com/arthurnoerve), [oisann](https://github.com/oisann)
 * __Chinese__ by [hao-lee](https://github.com/hao-lee)
 * __Indonesian__ by [simplyeazy](https://github.com/simplyeazy)
 * __Romanian__ by [cdorin93](https://github.com/cdorin93)
@@ -46,6 +46,8 @@ If you like this theme, you can buy me a ~~coffee~~ [beer](https://paypal.me/zut
 * __Greek__ by [thiodordelis](https://github.com/thiodordelis)
 * __Danish__ by [jmayntzhusen](https://github.com/jmayntzhusen)
 * __Arabic__ by [pop-eax](https://github.com/pop-eax)
+* __Catalan__ by [arthurnoerve](https://github.com/arthurnoerve)
+* __Lithuanian__ by [arthurnoerve](https://github.com/arthurnoerve)
 
 ## 🎨 Setup custom color
 

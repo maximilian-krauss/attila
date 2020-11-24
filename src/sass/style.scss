@@ -82,6 +82,8 @@ textarea {
 		@media (prefers-color-scheme: dark) {
 			color: #FFF;
 		}
+		overflow-wrap: break-word;
+		word-wrap: break-word;
 	}
 
 	h1 {
